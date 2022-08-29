@@ -1,0 +1,1 @@
+class ListlabelThree2ItemModel { }
